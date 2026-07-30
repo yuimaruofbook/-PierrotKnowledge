@@ -214,4 +214,4 @@ claude mcp add knowledge -- pk-mcp ./demo-knowledge
 
 ## Licence
 
-MIT.
+Apacheライセンス
